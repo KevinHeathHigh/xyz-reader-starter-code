@@ -5,11 +5,12 @@
     <android.support.v4.view.ViewPager
         android:id="@+id/pager"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        android:elevation="6dp" />
 
     <FrameLayout
         android:id="@+id/up_container"
-        android:background="@android:color/transparent"
+        android:background="@drawable/photo_background_protection"
         android:layout_width="match_parent"
         android:layout_height="?actionBarSize">
 
