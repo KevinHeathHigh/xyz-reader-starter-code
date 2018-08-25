@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.Bacon.Detail">
+    <style name="AppTheme.Detail">
         <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
 
-    <style name="YellowTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <style name="YellowTheme" parent="AppTheme">
         <item name="android:statusBarColor">@color/yellow_900</item>
         <item name="colorAccent">@color/brand</item>
         <item name="android:textColorPrimary">@color/brown_900</item>

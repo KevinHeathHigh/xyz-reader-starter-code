@@ -6,7 +6,7 @@
         android:id="@+id/up_container"
         android:background="@drawable/photo_background_protection"
         android:layout_width="match_parent"
-        android:elevation="8dp"
+        android:elevation="@dimen/appbar_elevation"
         android:layout_height="?actionBarSize">
 
         <ImageButton

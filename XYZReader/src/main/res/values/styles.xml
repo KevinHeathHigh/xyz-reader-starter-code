@@ -17,13 +17,11 @@
 
 <resources>
 
-    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar" />
-
-    <style name="YellowTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorAccent">@color/brand</item>
         <item name="android:textColorPrimary">@color/brown_900</item>
         <item name="colorPrimaryDark">@color/yellow_900</item>
-        <item name="colorPrimary">@color/yellow_700</item>
+        <item name="colorPrimary">@color/brand</item>
     </style>
 
 
