@@ -12,5 +12,10 @@
 
     <dimen name="card_elevation">1dp</dimen>
     <dimen name="card_margins">4dp</dimen>
+    <dimen name="title_max_padding">16dp</dimen>
+    <dimen name="title_min_padding">4dp</dimen>
+    <dimen name="subtitle_padding">16dp</dimen>
+    <dimen name="fab_normal_size">56dp</dimen>
+
 
 </resources>

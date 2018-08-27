@@ -20,6 +20,7 @@
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorAccent">@color/brand</item>
         <item name="android:textColorPrimary">@color/brown_900</item>
+        <item name="android:textColorSecondary">@color/brown_300</item>
         <item name="colorPrimaryDark">@color/yellow_900</item>
         <item name="colorPrimary">@color/brand</item>
     </style>

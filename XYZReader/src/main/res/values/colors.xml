@@ -31,4 +31,6 @@
     <color name="yellow_500">#fff263</color>
     <color name="yellow_900">#c49000</color>
     <color name="brown_900">#321911</color>
+    <color name="brown_300">#A1887F</color>
+    <color name="grey_400">#333</color>
 </resources>
